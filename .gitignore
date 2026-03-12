@@ -1,0 +1,8 @@
+# Ignore Excel and CSV results
+*.xlsx
+*.csv
+
+# Ignore Python cache
+__pycache__/
+.vscode/
+.env
